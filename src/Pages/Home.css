@@ -1,0 +1,45 @@
+#ul
+{
+    list-style-type: square;
+    margin-left: 7px;
+    font-size: 14px;
+    font-weight: 500;
+    display: grid;
+    gap: 22px;
+    
+    
+}
+#ul>li
+{
+    border-bottom: 1px dotted #eaeaea;
+   
+}
+#heading
+{
+    font-size: 30px;
+    font-weight: bold;
+}
+#timing
+{
+    font-size: 12px;
+}
+
+#info 
+{
+    padding: 22px;
+}
+
+#videosection
+{
+    /* width:100%,
+    height:100%,
+    position:absolute,
+    left:0px,
+    top:0px,
+    overflow:hidden
+
+    width
+     */
+   margin-top: 10px;
+    
+}
