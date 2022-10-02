@@ -1,0 +1,83 @@
+#Navbar{
+    
+    padding: 20px 0px;
+    
+}
+#navdivider
+{
+   
+    border-right: 1.5px solid #eaeaea;
+    margin: 0px 15px;
+   
+}
+#NavLink
+{
+    margin-left: 10px;
+    font-size: 13px;
+    color: white;
+    line-height: 18px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+#NavLink>Link 
+{
+    cursor: pointer;
+}
+
+#navButton
+{
+    background-color: #F7B825 ;
+    color: black;
+    display: flex;
+    text-align: center;
+    align-items: center;    
+    padding: 0px 10px;
+    margin-left: 20px;
+}
+#red
+{
+    color: red
+}
+#Navbackground
+{
+    background-color: #0087a8;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    
+}
+#alin
+{
+    display: flex;
+    align-items: center;
+    margin-left: 80px;
+}
+#centerd
+{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+/* #NavAni>div:nth-child(1)
+{
+    border-bottom: 3px solid  white;
+    width: 10px;
+    
+}
+
+#NavAni>div:nth-child(2)
+{
+    border-bottom: 3px solid  white;
+    width: 15px;
+    
+}
+
+#NavAni>div:nth-child(3)
+{
+    border-bottom: 3px solid  white;
+    width: 20px;
+} */
