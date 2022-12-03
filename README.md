@@ -1,4 +1,4 @@
-<h1 align="center"> Bella Vita Organic Clone </h1>
+<h1 align="center"> Deccan Herald </h1>
 
 <p> Deccan Herald brings breaking news, today's Live News on Sports, Business, Fitness, Entertainment, Opinions from leading columnists. </p>
 
@@ -25,4 +25,4 @@
 
 
 
-<h2>Watch Live <a href="decisive-iron-5903-my1bwn60r-rishunayak.vercel.app">Link</a></h2>
+<h2>Watch Live <a href="https://decisive-iron-5903.vercel.app/">Link</a></h2>
